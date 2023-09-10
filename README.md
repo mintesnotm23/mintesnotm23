@@ -4,10 +4,13 @@
 
 <!-- Introduction -->
 ## About Me
+<div style="font-size: 32px">
 - 👨‍💻 Software Developer
 - 🌐 Passionate about web technologies, ML & Blockchain
 - 🌱 Learning something new every day
 - 💬 Open to collaboration and networking
+    
+</div>
 
 <!-- Technologies -->
 ## Tech Stack
