@@ -6,7 +6,8 @@
 ## About Me
 
 <sup>- 👨‍💻 Software Developer</sup>
-- 🌐 Passionate about web technologies, ML & Blockchain
+
+<sup>- 🌐 Passionate about web technologies, ML & Blockchain</sup>
 - 🌱 Learning something new every day
 - 💬 Open to collaboration and networking
 
