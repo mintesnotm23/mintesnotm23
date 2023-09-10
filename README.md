@@ -3,12 +3,12 @@
 </h1>
 <br />
 <!-- Introduction -->
-# About Me
+<sup># About Me</sup>
 
-- 👨‍💻 <span style="font-size: 12px;">Software Developer</span>
-- 🌐 <span style="font-size: 12px;">Passionate about web technologies</span>
-- 🌱 <span style="font-size: 12px;">Learning something new every day</span>
-- 💬 <span style="font-size: 12px;">Open to collaboration and networking</span>
+- 👨‍💻 <span style="font-size: 10px;">Software Developer</span>
+- 🌐 <span style="font-size: 10px;">Passionate about web technologies</span>
+- 🌱 <span style="font-size: 10px;">Learning something new every day</span>
+- 💬 <span style="font-size: 10px;">Open to collaboration and networking</span>
 
 <!-- Problem Solving -->
 <sup># Problem Solving</sup>
@@ -17,7 +17,7 @@
 
 
 <!-- Technologies -->
-# Tech Stack
+<sup># Tech Stack</sup>
 - 💻 Front-end: React, Next.js, Vue.js, Tailwind CSS
 - 🌐 Back-end: Node.js, Express
 - 🛢️ Databases: MongoDB, MySQL
@@ -26,13 +26,13 @@
 
 
 <!-- Projects -->
-# Projects
+<sup># Projects</sup>
 - 🚀 [AASTU-GEBETA](link-to-project-1): 
 - 🌐 [A2SV-BLOG](link-to-project-2):
 - 📦 [HAIR-SALON](link-to-project-3): 
 
 <!-- Contact -->
-# Contact
+<sup># Contact</sup>
 - 📧 Email: mintesnot.markos@a2sv.org
 - 🔗 LinkedIn: [mintesnot-markos](https://www.linkedin.com/in/mintesnot-markos/)
 - 🐦 Twitter: [@_colson47](https://twitter.com/_colson47)
