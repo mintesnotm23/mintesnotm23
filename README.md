@@ -1,14 +1,15 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mintesnot+Markos!;" />
 </p>
-<!-- Introduction -->
+--------------------------------------------------------------------------------------------------------------------
 
+<!-- Introduction -->
 ### About Me
-- <sup> 👨‍💻  **Software Developer,  Love problem-solving | 400+ LeetCode problems**</sup>
-- <sup>🌐  **Passionate about web technologies, ML & Blockchain**</sup>
-- <sup> 🌱  **Learning something new every day**</sup>
-- <sup> 💬  **Open to collaboration and networking**</sup>
-- <sup> 📧  **How to reach me jamymarcoss47@gmail.com**</sup>
+- <sup> 👨‍💻  ** Software Developer,  Love problem-solving (400+ LeetCode problems) **</sup>
+- <sup>🌐  ** Passionate about web technologies, ML & Blockchain **</sup>
+- <sup> 🌱  ** Learning something new every day **</sup>
+- <sup> 💬  **Open to collaboration and networking **</sup>
+- <sup> 📧  ** How to reach me jamymarcoss47@gmail.com **</sup>
 
 --------------------------------------------------------------------------------------------------------------------
 
