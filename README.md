@@ -3,7 +3,7 @@
 </h1>
 <br />
 <!-- Introduction -->
-<sup># __About Me__</sup>
+<sup>**About Me**</sup>
 
 <sup>- 👨‍💻 <span style="font-size: 10px;">Software Developer</span></sup>
 <sup>- 🌐 <span style="font-size: 10px;">Passionate about web technologies</span></sup>
