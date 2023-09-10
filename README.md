@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Introduction -->
-## About Me
+### About Me
 
 <sup>- 👨‍💻 Software Developer</sup>
 <sup>- 🌐 Passionate about web technologies, ML & Blockchain</sup>
