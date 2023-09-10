@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 ## About Me
-<div style="font-size: 32px">
+<div style="font-size: 40px">
 - 👨‍💻 Software Developer
 - 🌐 Passionate about web technologies, ML & Blockchain
 - 🌱 Learning something new every day
