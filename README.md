@@ -11,7 +11,7 @@
 <sup>- 💬 Open to collaboration and networking</sup>
 
 <!-- Technologies -->
-## Tech Stack
+### Tech Stack
 - 💻 Front-end: React, Next.js, Vue.js, Tailwind CSS
 - 🌐 Back-end: Node.js, Express
 - 🛢️ Databases: MongoDB, MySQL
@@ -19,13 +19,13 @@
 
 
 <!-- Projects -->
-## Projects
+### Projects
 - 🥓 [AASTU-GEBETA](link-to-project-1)
 - 🌐 [A2SV-BLOG](link-to-project-2)
 - 👩‍🦰 [HAIR-SALON](link-to-project-3)
 
 <!-- Contact -->
-## Contact
+### Contact
 - 📧 Email: mintesnot.markos@a2sv.org
 - 🔗 LinkedIn: [mintesnot-markos](https://www.linkedin.com/in/mintesnot-markos/)
 - 🐦 Twitter: [@_colson47](https://twitter.com/_colson47)
