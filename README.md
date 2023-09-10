@@ -20,9 +20,9 @@
 
 <!-- Projects -->
 # Projects
-- 🚀 [AASTU-GEBETA](link-to-project-1)
-- 🌐 [A2SV-BLOG](link-to-project-2):
-- 📦 [HAIR-SALON](link-to-project-3): 
+- 🥓 [AASTU-GEBETA](link-to-project-1)
+- 🌐 [A2SV-BLOG](link-to-project-2)
+- 👩‍🦰 [HAIR-SALON](link-to-project-3)
 
 <!-- Contact -->
 # Contact
