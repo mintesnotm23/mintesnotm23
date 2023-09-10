@@ -5,12 +5,12 @@
 
 <!-- Introduction -->
 
-### About Me
+## About Me
 -  👨‍💻  **Software Developer,  Love problem-solving (400+ LeetCode problems)**
-- <sup>🌐  **Passionate about web technologies, ML & Blockchain**</sup>
-- <sup> 🌱  **Learning something new every day**</sup>
-- <sup> 💬  **Open to collaboration and networking**</sup>
-- <sup> 📧  **How to reach me jamymarcoss47@gmail.com**</sup>
+-  🌐  **Passionate about web technologies, ML & Blockchain**
+-  🌱  **Learning something new every day**
+-  💬  **Open to collaboration and networking**
+-  📧  **How to reach me jamymarcoss47@gmail.com**
 
 
     <p align="left">&nbsp;<img   width=380px src="https://github-readme-stats.vercel.app/api?username=jamyMarkos&show_icons=true&theme=radical&locale=en" alt="jamyMarkos" /></p>
