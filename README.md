@@ -13,7 +13,7 @@
 
 
     <p align="left">&nbsp;<img width=380px src="https://github-readme-stats.vercel.app/api?username=jamyMarkos&show_icons=true&theme=radical&locale=en" alt="jamyMarkos" /></p>
-    <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyMarkos&show_icons=true&theme=radical&locale=en&layout=compact" alt="jamyMarkos" /></p>
+    <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyMarkos&show_icons=true&theme=radical&locale=en&layout=compact" alt="jamyMarkos" /></p>
 
 
 
