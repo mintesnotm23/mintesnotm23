@@ -5,10 +5,10 @@
 <!-- Introduction -->
 ### About Me
 
-<sup>- 👨‍💻 Software Developer</sup>
-<sup>- 🌐 Passionate about web technologies, ML & Blockchain</sup>
-<sup>- 🌱 Learning something new every day</sup>
-<sup>- 💬 Open to collaboration and networking</sup>
+- <sup> 👨‍💻 Software Developer</sup>
+- <sup>🌐 Passionate about web technologies, ML & Blockchain</sup>
+- <sup> 🌱 Learning something new every day</sup>
+- <sup> 💬 Open to collaboration and networking</sup>
 
 <!-- Technologies -->
 ### Tech Stack
