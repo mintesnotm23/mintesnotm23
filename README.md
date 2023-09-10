@@ -11,8 +11,8 @@
 - <sup> 💬  **Open to collaboration and networking **</sup>
 - <sup> 📧  ** How to reach me jamymarcoss47@gmail.com **</sup>
 <h1>
-    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyMarkos&show_icons=true&theme=radical&locale=en&layout=compact" alt="jamyMarkos" /></p>|
     <p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=jamyMarkos&show_icons=true&theme=radical&locale=en" alt="jamyMarkos" /></p>
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyMarkos&show_icons=true&theme=radical&locale=en&layout=compact" alt="jamyMarkos" /></p>
     
 </h1>
 
