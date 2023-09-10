@@ -11,6 +11,8 @@
 - <sup> 💬  **Open to collaboration and networking **</sup>
 - <sup> 📧  ** How to reach me jamymarcoss47@gmail.com **</sup>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyMarkos&show_icons=true&theme=radical&locale=en&layout=compact" alt="jamyMarkos" /></p>
+
 
 <!-- Technologies -->
 ### Language & Tools
