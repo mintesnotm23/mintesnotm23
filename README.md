@@ -6,11 +6,11 @@
 <!-- Introduction -->
 
 ## About Me
--  👨‍💻  **Software Developer,  Love problem-solving (400+ LeetCode problems)**
--  🌐  **Passionate about web technologies, ML & Blockchain**
--  🌱  **Learning something new every day**
--  💬  **Open to collaboration and networking**
--  📧  **How to reach me jamymarcoss47@gmail.com**
+-  👨‍💻  Software Developer,  Love problem-solving (400+ LeetCode problems)
+-  🌐  Passionate about web technologies, ML & Blockchain
+-  🌱  Learning something new every day
+-  💬  Open to collaboration and networking
+-  📧  How to reach me jamymarcoss47@gmail.com
 
 
     <p align="left">&nbsp;<img   width=380px src="https://github-readme-stats.vercel.app/api?username=jamyMarkos&show_icons=true&theme=radical&locale=en" alt="jamyMarkos" /></p>
