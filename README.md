@@ -5,9 +5,9 @@
 <!-- Introduction -->
 ## About Me
 
-<sup>- 👨‍💻 Software Developer</sup>
+<sup>- 👨‍💻 Software Developer                                            </sup>
 <sup>- 🌐 Passionate about web technologies, ML & Blockchain</sup>
-- 🌱 Learning something new every day
+<sup>- 🌱 Learning something new every day</sup>
 - 💬 Open to collaboration and networking
 
 <!-- Technologies -->
