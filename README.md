@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mintesnot+Markos!;" />
 </h1>
-<hr/>
+
 
 <!-- Introduction -->
 ### About Me
@@ -11,7 +11,6 @@
 - <sup> 💬  **Open to collaboration and networking **</sup>
 - <sup> 📧  ** How to reach me jamymarcoss47@gmail.com **</sup>
 
-<hr/>
 
 <!-- Technologies -->
 ### Language & Tools
