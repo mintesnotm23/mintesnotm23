@@ -4,7 +4,7 @@
 <!-- Introduction -->
 
 ### About Me
-- <sup> 👨‍💻 **Software Developer,  Love problem-solving**</sup>
+- <sup> 👨‍💻 **Software Developer,  Love problem-solving | 400+ LeetCode problems**</sup>
 - <sup>🌐 **Passionate about web technologies, ML & Blockchain**</sup>
 - <sup> 🌱 **Learning something new every day**</sup>
 - <sup> 💬 **Open to collaboration and networking**</sup>
