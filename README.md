@@ -4,13 +4,13 @@
 <br />
 <!-- Introduction -->
 # About Me
-- 👨‍💻 Software Developer
-- 🌐 Passionate about web technologies
-- 🌱 Learning something new every day
-- 💬 Open to collaboration and networking
+- 👨‍💻 <span style="font-size: 12px;">Software Developer</span>
+- 🌐 <span style="font-size: 12px;">Passionate about web technologies</span>
+- 🌱 <span style="font-size: 12px;">Learning something new every day</span>
+- 💬 <span style="font-size: 12px;">Open to collaboration and networking</span>
 
 <!-- Problem Solving -->
-# Problem Solving
+<sup># Problem Solving</sup>
 - 💡 Love problem-solving
 - ✅ Solved 400+ LeetCode problems
 
