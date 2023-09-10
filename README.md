@@ -5,7 +5,7 @@
 <!-- Introduction -->
 <sup># About Me</sup>
 
-- 👨‍💻 <sup><span style="font-size: 10px;">Software Developer</span></sup>
+<sup>- 👨‍💻 <span style="font-size: 10px;">Software Developer</span></sup>
 - 🌐 <span style="font-size: 10px;">Passionate about web technologies</span>
 - 🌱 <span style="font-size: 10px;">Learning something new every day</span>
 - 💬 <span style="font-size: 10px;">Open to collaboration and networking</span>
