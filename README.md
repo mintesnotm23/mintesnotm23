@@ -16,7 +16,7 @@
 - 🌐 Back-end: Node.js, Express
 - 🛢️ Databases: MongoDB, MySQL
 - 📱 Mobile: React Native
-- 🚀 Deployment: Heroku, Vercel, Netlify
+
 
 <!-- Projects -->
 # Projects
