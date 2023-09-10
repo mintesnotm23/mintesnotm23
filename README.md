@@ -5,6 +5,11 @@
 <!-- Introduction -->
 # About Me
 
+- 👨‍💻 <span style="font-size: 12px;">Software Developer</span>
+- 🌐 <span style="font-size: 12px;">Passionate about web technologies</span>
+- 🌱 <span style="font-size: 12px;">Learning something new every day</span>
+- 💬 <span style="font-size: 12px;">Open to collaboration and networking</span>
+
 <!-- Problem Solving -->
 <sup># Problem Solving</sup>
 - 💡 Love problem-solving
