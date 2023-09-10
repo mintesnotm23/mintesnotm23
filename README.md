@@ -4,11 +4,12 @@
 <br />
 <!-- Introduction -->
 <sup>**About Me**</sup>
-
-<sup>- 👨‍💻 <span style="font-size: 10px;">Software Developer</span></sup>
-<sup>- 🌐 <span style="font-size: 10px;">Passionate about web technologies</span></sup>
-<sup>- 🌱 <span style="font-size: 10px;">Learning something new every day</span></sup>
-<sup>- 💬 <span style="font-size: 10px;">Open to collaboration and networking</span></sup>
+<div style="display: flex; flex-direction: column;">
+    <sup>- 👨‍💻 <span style="font-size: 10px;">Software Developer</span></sup>
+    <sup>- 🌐 <span style="font-size: 10px;">Passionate about web technologies</span></sup>
+    <sup>- 🌱 <span style="font-size: 10px;">Learning something new every day</span></sup>
+    <sup>- 💬 <span style="font-size: 10px;">Open to collaboration and networking</span></sup> 
+</div>
 
 <!-- Problem Solving -->
 <sup># Problem Solving</sup>
