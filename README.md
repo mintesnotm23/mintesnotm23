@@ -6,7 +6,6 @@
 
 -  👨‍💻  Software Developer,  Love problem-solving (400+ LeetCode problems)
 -  🌐  Passionate about web technologies, ML & Blockchain
--  🌱  Learning something new every day
 -  💬  Open to collaboration and networking
 -  📧  How to reach me jamymarcoss47@gmail.com
 
