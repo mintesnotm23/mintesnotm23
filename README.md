@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mintesnot+Markos!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Mintesnot+Markos!" />
 </p>
 
 ## About Me
 
--  👨‍💻  Software Developer,  Love problem-solving (400+ LeetCode problems)
--  🌐  Passionate about web technologies, ML & Blockchain
--  💬  Open to collaboration and networking
--  📧  How to reach me jamymarcoss47@gmail.com
-  
+- 👨‍💻  Software Developer focused on building and designing scalable web applications
+- 🌐  Passionate about modern web technologies, AI/ML, and Web3
+- 🤝  Open to collaboration, networking, and contributing to innovative projects
+- 📧  Reach out: jamymarcoss47@gmail.com
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+LinkedIn!;Always+open+to+collab+and+new+ideas+" />
 </p>
